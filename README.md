@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hellooooo</h1>
 
-:telescope: I’m a tech enthusiast and like to use creativity to problem-solve! 
+:telescope: I’m a AI/ML enthusiast and like to use creativity to problem-solve! 
 
 :zap: I like anything F1, AI, books and nature!
 
